@@ -1,3 +1,5 @@
 [user]
 	email = aleksandrov.d89@gmail.com
 	name = Dmitrii Aleks
+[credential]
+	helper = cache

@@ -17,7 +17,7 @@
     ];
 
     stateVersion = "23.11";
-    username = "vlad";
+    username = "dimfatal";
   };
 
   programs.home-manager.enable = true;

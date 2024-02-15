@@ -27,6 +27,7 @@
       stow
       tmux
       unzip
+      fzf
       zip
     ];
 

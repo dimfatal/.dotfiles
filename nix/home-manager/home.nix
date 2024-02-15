@@ -13,7 +13,21 @@
       bat
       bloop
       coursier
+      direnv
+      docker
+      docker-compose
+      git
+      htop
+      ipfetch
+      k9s
+      keychain
+      metals
       neovim
+      nix-direnv
+      stow
+      tmux
+      unzip
+      zip
     ];
 
     stateVersion = "23.11";

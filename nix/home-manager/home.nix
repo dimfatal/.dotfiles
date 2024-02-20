@@ -16,6 +16,7 @@
       direnv
       docker
       docker-compose
+      direnv
       git
       htop
       ipfetch
@@ -26,9 +27,12 @@
       nix-direnv
       stow
       tmux
+      tailspin
       unzip
+      fd
       fzf
       zip
+      zsh
     ];
 
     stateVersion = "23.11";

@@ -31,6 +31,7 @@
       unzip
       fd
       fzf
+      gh
       zip
       zsh
     ];

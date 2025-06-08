@@ -1,6 +1,6 @@
 prepare the system 
 sudo apt update && sudo apt -y full-upgrade && sudo apt -y autoremove
-
+sudo apt install build-essential
 install nix - https://nixos.org/download.html
 
 sh <(curl -L https://nixos.org/nix/install) --no-daemon
